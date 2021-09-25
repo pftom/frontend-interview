@@ -1,6 +1,37 @@
-本仓库记录了笔者面试阿里、腾讯、字节、京东等大厂的面试经验和准备经历，目录如下。
+本仓库记录了笔者面试阿里、腾讯、字节、京东等大厂的面试经验和准备经历，目录如下，如果觉得不错，可以点个 ⭐️，谢谢你！
 
-- 预热准备
-  - 准备投递字节跳动
-- 开始按知识点复习
-  - JS 基础
+- [预热准备](https://github.com/pftom/frontend-interview/tree/master/%E9%A2%84%E7%83%AD%E5%87%86%E5%A4%87)
+  - [准备投递字节跳动](https://github.com/pftom/frontend-interview/blob/master/%E9%A2%84%E7%83%AD%E5%87%86%E5%A4%87/%E5%87%86%E5%A4%87%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%AE%9E%E4%B9%A0.md)
+- [开始按知识点复习](https://github.com/pftom/frontend-interview/tree/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0)
+  - [JS 基础](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/JS%20%E5%9F%BA%E7%A1%80.md)
+  - [浏览器](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/%E6%B5%8F%E8%A7%88%E5%99%A8.md)
+  - [性能优化](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
+  - [安全](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/%E5%AE%89%E5%85%A8.md)
+  - [框架](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/%E6%A1%86%E6%9E%B6.md)
+  - [前端构建与编译](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/%E5%89%8D%E7%AB%AF%E6%9E%84%E5%BB%BA%E4%B8%8E%E7%BC%96%E8%AF%91.md)
+  - [计算机操作系统](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
+  - [设计模式](https://github.com/pftom/frontend-interview/blob/master/%E6%8C%89%E7%9F%A5%E8%AF%86%E7%82%B9%E5%A4%8D%E4%B9%A0/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+  - Git
+  - 数据库
+  - Node.js
+  - 开放问题
+  - 手撕代码
+- [额外知识准备](https://github.com/pftom/frontend-interview/tree/master/%E9%A2%9D%E5%A4%96%E7%9F%A5%E8%AF%86%E5%87%86%E5%A4%87)
+  - [项目知识介绍](https://github.com/pftom/frontend-interview/blob/master/%E9%A2%9D%E5%A4%96%E7%9F%A5%E8%AF%86%E5%87%86%E5%A4%87/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md)
+  - [应届生如何拿到阿里前端 Offer？](https://github.com/pftom/frontend-interview/blob/master/%E9%A2%9D%E5%A4%96%E7%9F%A5%E8%AF%86%E5%87%86%E5%A4%87/%E5%BA%94%E5%B1%8A%E7%94%9F%E5%A6%82%E4%BD%95%E6%8B%BF%E5%88%B0%E9%98%BF%E9%87%8C%E5%89%8D%E7%AB%AF%20Offer.md)
+- [面试经验总结](https://github.com/pftom/frontend-interview/tree/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93)
+  - [政采云](https://github.com/pftom/frontend-interview/tree/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E6%94%BF%E9%87%87%E4%BA%91)
+    - [政采云一面](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E6%94%BF%E9%87%87%E4%BA%91/%E6%94%BF%E9%87%87%E4%BA%91%E4%B8%80%E9%9D%A2.md)
+  - [腾讯](https://github.com/pftom/frontend-interview/tree/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E8%85%BE%E8%AE%AF)
+    - [腾讯实习（一面）](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E8%85%BE%E8%AE%AF/%E8%85%BE%E8%AE%AF%E5%AE%9E%E4%B9%A0%EF%BC%88%E4%B8%80%E9%9D%A2%EF%BC%89.md)
+    - [腾讯 HR 面准备](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E8%85%BE%E8%AE%AF/%E8%85%BE%E8%AE%AF%20HR%20%E9%9D%A2%E5%87%86%E5%A4%87.md)
+    - [腾讯 IVWeb（一面）](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E8%85%BE%E8%AE%AF/%E8%85%BE%E8%AE%AF%20IVWeb%EF%BC%88%E4%B8%80%E9%9D%A2%EF%BC%89.md)
+    - [腾讯 IVWeb（二面）](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E8%85%BE%E8%AE%AF/%E8%85%BE%E8%AE%AF%20IVWeb%EF%BC%88%E4%BA%8C%E9%9D%A2%EF%BC%89.md)
+    - [腾讯 IVWeb（三面）](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E8%85%BE%E8%AE%AF/%E8%85%BE%E8%AE%AF%20IVWeb%EF%BC%88%E4%B8%89%E9%9D%A2%EF%BC%89.md)
+    - [腾讯 IVWeb（四面）](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E8%85%BE%E8%AE%AF/%E8%85%BE%E8%AE%AF%20IVWeb%EF%BC%88%E5%9B%9B%E9%9D%A2%EF%BC%89.md)
+  - [字节跳动](https://github.com/pftom/frontend-interview/tree/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8)
+    - [字节跳动校招提前批一面（教育部门）](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%A0%A1%E6%8B%9B%E6%8F%90%E5%89%8D%E6%89%B9%E4%B8%80%E9%9D%A2%EF%BC%88%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%EF%BC%89%20(2).md)
+    - [字节跳动提前批二面](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%8F%90%E5%89%8D%E6%89%B9%E4%BA%8C%E9%9D%A2.md)
+    - [字节跳动提前批三面](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%8F%90%E5%89%8D%E6%89%B9%E4%B8%89%E9%9D%A2.md)
+    - [字节跳动 HR 面](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%8F%90%E5%89%8D%E6%89%B9%EF%BC%88%E5%8A%A0%E9%9D%A2%EF%BC%89.md)
+    - [字节跳动提前批（加面）](https://github.com/pftom/frontend-interview/blob/master/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%8F%90%E5%89%8D%E6%89%B9%EF%BC%88%E5%8A%A0%E9%9D%A2%EF%BC%89.md)
